@@ -18,7 +18,7 @@
 
 MINUS ONE is an independent white-hat initiative. Its concept is **vulnerability response that does not depend on private companies**.
 
-Finding and fixing vulnerabilities is usually left to security vendors. MINUS ONE is not a company and does not act for one: volunteers find vulnerabilities, report them privately to the people who can fix them, and build the tools needed to do that work.
+Finding and fixing vulnerabilities is usually left to security vendors. MINUS ONE is not a company and does not work on behalf of companies: volunteers find vulnerabilities, report them privately to the developers and administrators who can fix them, and build the tools needed to do that work.
 
 ## 🧰 Tools
 
@@ -30,8 +30,8 @@ Finding and fixing vulnerabilities is usually left to security vendors. MINUS ON
 
 1. **Independent.** Not a company, and not tied to any vendor.
 2. **Sensitive details stay local.** The cloud holds only what is needed to track progress.
-3. **Report privately first,** to the people who can fix the problem.
-4. **Authorized testing only.**
+3. **Report privately first,** to the developers and administrators who can fix the problem.
+4. **We look only at what is public, or what we have permission to test.** No unauthorized intrusion.
 
 ## 🤝 Get involved
 
