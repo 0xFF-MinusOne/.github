@@ -1,6 +1,11 @@
 <div align="center">
 
-# ➖ MINUS ONE
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xFF-MinusOne/.github/main/profile/mark-inverse.svg">
+  <img src="https://raw.githubusercontent.com/0xFF-MinusOne/.github/main/profile/mark.svg" alt="0xFF-MinusOne" width="96" height="96">
+</picture>
+
+# MINUS ONE
 
 ### 民間企業にたよらない脆弱性対策。 ｜ Vulnerability response that does not depend on private companies.
 
